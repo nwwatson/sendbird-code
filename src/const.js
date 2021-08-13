@@ -6,8 +6,7 @@ export const APP_ID = "65840362-69D4-4253-B261-128D197080DB";
 export const USER_ID = "friend1";
 export const NICKNAME = "friend1";
 
-export const YOUR_SALESFORCE_URL =
-  "https://daytwo--dev.lightning.force.com/";
+export const YOUR_SALESFORCE_URL = "https://daytwo--dev--c.container.lightning.com";
 
 export default {
   APP_ID,
