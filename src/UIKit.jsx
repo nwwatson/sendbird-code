@@ -36,6 +36,7 @@ function UIKit(user) {
         appId={APP_ID}
         userId={user.user.userId}
         nickname={user.user.nickname}
+        accessToken={user.user.accessToken}
       >
         <div className="sendbird-app__wrap">
           <ChannelList
